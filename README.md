@@ -22,5 +22,7 @@ Permitir que os usuários adicionem e removam itens do carrinho de compras de fo
 Assegure-se de que a arquitetura dos microsserviços seja capaz de lidar com picos de tráfego e transações simultâneas, garantindo uma experiência de usuário ininterrupta e confiável. A plataforma deve ser projetada com redundância e tolerância a falhas para minimizar interrupções e perda de dados.
 
 # Grupo
+
 Stefany Mikaelle da Silva Lima
-Elton
+
+Elton Soligueto
